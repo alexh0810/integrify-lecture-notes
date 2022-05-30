@@ -1,6 +1,6 @@
 ## GIT FAST TRACK ## 
 
-1. **Basic concepts **
+1. **Basic concepts**
 
 Repo: local & remote
 Working directory
@@ -11,7 +11,7 @@ Pull requests: Open a pull request to 'request' your parent repo (the repo from 
 Compare: Compare the changes between the parent repo and your forked repo
 Fetch upstream: Fetch all the changes from parent repo to your forked repo Github
 
-2. ** Basic git commands ** 
+2. **Basic git commands** 
     ```
     git init
     ```
