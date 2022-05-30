@@ -31,7 +31,7 @@ Check the origin of the remote repo
     
 Checking the status (new changes) of the working directory
 
-     ```
+    ```
     git add
     ```
     
