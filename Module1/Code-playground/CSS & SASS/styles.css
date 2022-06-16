@@ -1,0 +1,81 @@
+#music-1 {
+animation: music-1 3s ease infinite;
+}
+
+#music-2 {
+animation: music-2 3s linear infinite;
+}
+
+#music-3 {
+    animation: music-3 4s ease infinite;
+}
+
+#arm-movement {
+    animation: arm-movement 3s ease infinite;
+}
+
+#shirt {
+    animation: shirt 3s ease-in-out infinite; 
+}
+
+
+@keyframes music-1 {
+
+    from {
+        transform: rotateX(0deg);
+    }
+    to {
+        transform: rotateX(30deg);
+    }
+}
+
+@keyframes music-2 {
+
+    from {
+        transform: rotateX(0);
+    }
+    to {
+        transform: rotateX(-30deg);
+    }
+}
+
+@keyframes music-3 {
+
+    from {
+        transform: rotateX(0deg);
+    }
+    to {
+        transform: rotateX(-30deg);
+    }
+}
+
+
+@keyframes arm-movement {
+
+    from {
+        transform: rotateX(0deg);
+    }
+    to {
+        transform: rotateX(20deg);
+    }
+}
+
+
+@keyframes shirt {
+    from {
+        fill: #E6E6E6;
+    }
+    to {
+        fill: #F9A826;
+    }
+
+}
+
+
+
+
+
+
+
+
+
